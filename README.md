@@ -19,17 +19,23 @@ This is the lifeboat for my custom Neovim config. We started with kickstart, and
 
 ## Installation 🛠️
 
-Backup Existing Configuration 🔄:Save your current Neovim config, just in case:
+Backup Existing Configuration 🔄
+
+Save your current Neovim config, just in case:
 ```bash
 mv ~/.config/nvim ~/.config/nvim.bak
 ```
 
-Clone the Repository 📥:Grab this config and place it in the Neovim directory:
+Clone the Repository 📥
+
+Grab this config and place it in the Neovim directory:
 ```bash
 git clone https://github.com/yourusername/nvim-config.git ~/.config/nvim
 ```
 
-Start Neovim 🚀:Fire up Neovim to install plugins via lazy.nvim:
+Start Neovim 🚀
+
+Fire up Neovim to install plugins via lazy.nvim:
 ```bash
 nvim
 ```
@@ -71,4 +77,5 @@ You can view the list of custom plugins I've added to the kickstart in the /cust
 ### LSP Servers 
 
 Currently using Mason to install, here is my list of installed goodies: 
-TODO: add image of currently installed LSPs
+![image](https://github.com/user-attachments/assets/5aa45055-5afc-4707-a852-57d852e2c8f0)
+
